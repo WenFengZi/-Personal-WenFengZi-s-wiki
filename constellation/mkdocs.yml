@@ -1,4 +1,51 @@
-site_name: My Docs
+#标题
+site_name: 文风子的个人wiki
 
+
+#UI设计&配置
 theme:
   name: 'material'
+  palette:
+    #夜间模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo #网站上栏颜色
+      accent: green #鼠标停留颜色
+      toggle:
+        icon: material/weather-sunny
+        name: 日间模式
+    #日间模式
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo #网站上栏颜色
+      accent: green #鼠标停留颜色
+      toggle:
+        icon: material/weather-night
+        name: 夜间模式
+
+  features:
+    # 使用 Tab 来进行分类
+    - navigation.tabs
+    # 返回顶部的按钮，在上滑时出现
+    - navigation.top
+    # 给每个 Tab 添加一个 index.md，且在点击 Tab 时打开
+    - navigation.indexes
+    # 搜索输入一些字母时推荐补全整个单词
+    - search.suggest
+    # 搜索的关键词文章加入高亮
+    - search.highlight
+    # 可以通过按钮复制代码
+    - content.code.copy
+    # [点击按钮跳转至 GitHub 修改 Markdown 源文件]
+    - content.action.edit
+
+  #散设置
+  favicon: images/favicon.jpg #网站标签小图
+  logo: assets/logo.png #顶栏图标
+  language: zh #网站语言
+  icon:
+    repo: fontawesome/brands/github
+
+  extra:
+    homepage: https://wenfengzi.github.io/-Personal-WenFengZi-s-wiki/ #设置首页
+
