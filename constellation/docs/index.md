@@ -1,17 +1,30 @@
-# Welcome to MkDocs
+# 欢迎来到WenFengZi's Constellation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+>这是文风子的个人wiki，主要用于记录知识和个人的网站
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### 何为Constellation？
+该词出自哲学家**瓦尔特·本雅明**的著作《德意志悲苦剧的起源》的前言，
+并被哲学家特奥多尔·阿多诺继续批判并使用的概念：
+星丛（Constellation）
 
-## Project layout
+这个概念描述了一种对现象的配置而构成的模式。
+这个思辨源于哲学史传统——理念与现象的关系。
+通过对于现象进行布设，尤其是那些极端情况的元素，理念，或者理解为本质，
+与这些现象的关系就如同星丛与群星的关系。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+星星在星丛中得到拯救，而星丛又由星星构成……
+
+诸如此类吧。我这里其实没有根据原文来理解，而是根据这个词的文学意象来思考。
+我希望这个wiki能如同一个星丛一般，将我身上、脑内的诸多信息进行配置，
+使得名为“我”的光辉能闪耀其中。
+
+### 本wiki由以下几个部分构成
+
+- 分析杂谈（文史哲）
+- 思考录
+- 二次元
+
+希望这个wiki能够清晰的梳理我的思考脉络。
+
+祝阅读愉快！
