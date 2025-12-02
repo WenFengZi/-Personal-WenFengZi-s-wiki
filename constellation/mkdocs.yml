@@ -1,5 +1,19 @@
 # 标题
 site_name: 文风子的个人wiki
+site_url: https://wenfengzi.github.io/-Personal-WenFengZi-s-wiki/
+site_author: 文风子
+site_description: 文风子的个人wiki
+
+##正文连接
+nav:
+  - 分析谈:
+      - analyze/index.md
+  - 思想录:
+      - thinking/index.md
+  - 二次元:
+      - acgn/index.md
+  - 数理化:
+      - metamath/index.md
 
 
 # UI设计&配置
@@ -9,7 +23,7 @@ theme:
     # 夜间模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo # 网站上栏颜色
+      primary: blue grey # 网站上栏颜色
       accent: green # 鼠标停留颜色
       toggle:
         icon: material/weather-sunny
@@ -101,12 +115,15 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-  extra:
-    homepage: https://wenfengzi.github.io/-Personal-WenFengZi-s-wiki/ #设置首页
-    social:
-      - name: Bilibili | 文翰墨客Channel
-        icon: fontawesome/brands/bilibili
-        link: https://space.bilibili.com/523570822
+repo_url: https://github.com/WenFengZi/-Personal-WenFengZi-s-wiki
+repo_name: WenFengZi-s-wiki
+
+extra:
+  homepage: https://wenfengzi.github.io/-Personal-WenFengZi-s-wiki/ #设置首页
+  social:
+    - name: Bilibili | 文翰墨客Channel
+      icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/523570822
 
 
 
