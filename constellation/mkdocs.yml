@@ -10,6 +10,8 @@ nav:
       - analyze/index.md
   - 思想录:
       - thinking/index.md
+      - 读书:
+          - 哲学阅读方法: thinking/Reading/PhilosophyRead.md
   - 二次元:
       - acgn/index.md
   - 数理化:
